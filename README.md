@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-a simple tic-tac-toe game using python3
+
+Simple tic-tac-toe game using python3
+
+Its a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
